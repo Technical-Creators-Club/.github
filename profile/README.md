@@ -10,6 +10,7 @@ We create, we share, we grow — together.
 <br/>
 
 [![Website](https://img.shields.io/badge/Blog-technical--creators--club.github.io-6366f1?style=for-the-badge&logo=github-pages&logoColor=white)](https://technical-creators-club.github.io)
+[![Discord](https://img.shields.io/badge/Discord-Join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/guUPE5AN)
 [![Contribute](https://img.shields.io/badge/Contribute-Write_for_us-22c55e?style=for-the-badge&logo=markdown&logoColor=white)](https://technical-creators-club.github.io/about/)
 [![Community](https://img.shields.io/badge/Open_to-All_Creators-f59e0b?style=for-the-badge&logo=handshake&logoColor=white)](https://technical-creators-club.github.io)
 
@@ -44,9 +45,9 @@ Check out our **[featured articles and community showcases](https://technical-cr
 ## 💡 Get Involved
 
 - 📖 **Read** our blog at [technical-creators-club.github.io](https://technical-creators-club.github.io)
+- 💬 **Join our Discord** → [discord.gg/guUPE5AN](https://discord.gg/guUPE5AN)
 - ✍️ **Write** a post via the [Contribution Guide](https://github.com/Technical-Creators-Club/Technical-Creators-Club.github.io/blob/main/CONTRIBUTING.md)
 - ⭐ **Star** repos you find useful
-- 💬 **Open an issue** to share ideas, feedback, or say hi!
 - 🤝 **Fork and contribute** to our open source projects
 
 ---
@@ -57,6 +58,6 @@ Check out our **[featured articles and community showcases](https://technical-cr
 
 *Join us. Build something. Share it with the world.*
 
-**[→ Visit our blog](https://technical-creators-club.github.io)**
+[![Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/guUPE5AN) [![Blog](https://img.shields.io/badge/Visit_Blog-6366f1?style=for-the-badge&logo=github-pages&logoColor=white)](https://technical-creators-club.github.io)
 
 </div>
